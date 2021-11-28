@@ -1,0 +1,2 @@
+# Operacao-Matriz
+Menu Principal  1 - Adicionar Elementos na matriz.  2 - Operações na Matriz  3 - Exibir todos os elementos da Matriz   Menu Operações  1 - Somar todos os valores de uma linha especifica. (solicitar a linha que deve ser somada)  2 - Media de todos os valores de uma coluna especifica. (solicitar a coluna que deve ser calculada)  3 - Soma total dos valores.  4 - Voltar para o menu principal 
